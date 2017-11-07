@@ -6,6 +6,7 @@ Exercises included:
 3. HospitalReadmission_exercise_3.ipynb
 4. Mini_Project_Linear_Regression.ipynb
 5. Mini_Project_Logistic_Regression.ipynb
+6. Mini_Project_Naive_Bayes.ipynb
 
 Key Concepts:
 
@@ -13,3 +14,4 @@ Key Concepts:
 - Inferential Statistics
 - Linear Regression
 - Logistic Regression
+- Bayesian Methods
