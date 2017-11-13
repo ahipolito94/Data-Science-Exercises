@@ -7,6 +7,7 @@ Exercises included:
 4. Mini_Project_Linear_Regression.ipynb
 5. Mini_Project_Logistic_Regression.ipynb
 6. Mini_Project_Naive_Bayes.ipynb
+7. Mini_Project_Clustering.ipynb
 
 Key Concepts:
 
@@ -15,3 +16,4 @@ Key Concepts:
 - Linear Regression
 - Logistic Regression
 - Bayesian Methods
+- Clustering
