@@ -8,6 +8,7 @@ Exercises included:
 5. Mini_Project_Logistic_Regression.ipynb
 6. Mini_Project_Naive_Bayes.ipynb
 7. Mini_Project_Clustering.ipynb
+8. JSON+Project.ipynb
 
 Key Concepts:
 
