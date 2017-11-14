@@ -1,5 +1,15 @@
 # Springboard-Exercises
-Exercises included:
+
+## Key Concepts:
+
+- Exploratory Data Analysis
+- Inferential Statistics
+- Linear Regression
+- Logistic Regression
+- Bayesian Methods
+- Clustering
+
+## Exercises included:
 
 1. HumanBodyTemp_exercise_1.ipynb
 2. RacialDisc_exercise_2.ipynb
@@ -9,12 +19,3 @@ Exercises included:
 6. Mini_Project_Naive_Bayes.ipynb
 7. Mini_Project_Clustering.ipynb
 8. JSON+Project.ipynb
-
-Key Concepts:
-
-- Exploratory Data Analysis
-- Inferential Statistics
-- Linear Regression
-- Logistic Regression
-- Bayesian Methods
-- Clustering
