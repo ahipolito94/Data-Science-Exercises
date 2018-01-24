@@ -1,5 +1,3 @@
-# Springboard-Exercises
-
 ## Key Concepts:
 
 - Exploratory Data Analysis
